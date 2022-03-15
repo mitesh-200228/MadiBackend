@@ -5,4 +5,4 @@ After that set enviornment variables (name given in .env.example file) . But sti
 
 DB used : MongoDB Cloud 
 
-All endpoints and their respective body (if necessary is given below link)
+All endpoints and their respective body (if necessary) is given [Here](https://documenter.getpostman.com/view/18879481/UVsLSRzN)
